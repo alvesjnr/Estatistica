@@ -1,0 +1,11 @@
+Segundo trabalho da matéria de Simulação de Eventos Discreto, Unifei, 2010
+
+ConjuntoDados.h - Contém a implementação de uma lista encadeada simples, com inclusão sempre ordenada, do menor para o maior
+
+Estatistica.h - A classe estatística fornece uma série de ferramentas para análise de um conjunto de dados de entrada, como cálculo de média, mediana, quartis e levantamento de histograma
+
+Main.cpp - Classe de teste que exemplifica o funcionamento da classe Estatística
+
+Node.h - Definição de um elemento do meu conjunto de dados. 
+
+Itajubá, 14 de abril de 2010
